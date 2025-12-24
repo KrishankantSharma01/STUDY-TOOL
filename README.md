@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📘 Interactive Study Tool (NotebookLM-inspired)
 
 This project is an interactive study tool inspired by NotebookLM, designed to help students learn more effectively from structured study material such as textbooks and educational videos.
@@ -119,3 +120,6 @@ Source highlighting in AI responses
 Voice-based student input
 
 Personalized study history
+=======
+# STUDY-TOOL
+>>>>>>> 62c8ee206649d773cb7f6d643f4134fd5e6a8ca7
