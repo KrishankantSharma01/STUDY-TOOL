@@ -1,0 +1,57 @@
+### Part 1: Oligopoly Characteristics and the Kinked Demand Curve
+
+Characteristics of Oligopoly
+-   Definition: An oligopoly is a market dominated by a few firms, indicated by a high concentration ratio (typically, no more than seven firms holding about 70% market share).
+-   Barriers to Entry: These markets feature high barriers to entry and exit, such as strong brand loyalty, sunk costs, economies of scale, and high startup costs.
+-   Product Differentiation: Firms are price makers because they sell differentiated, unique goods.
+-   Interdependence: This is the defining feature; firms do not make decisions independently but act based on the actions and reactions of their rivals.
+-   Objectives: Due to interdependence, profit maximization is not always the sole objective; firms engage in a "dog fight" for market share and will pursue whatever objective secures market power.
+-   Competition Style: Because prices tend to be rigid, competition often focuses on non-price factors like branding, advertising, and quality.
+-   Real-World Examples:
+    -   Global: Soft drinks (Coca-Cola and Pepsi duopoly), the car industry, and OPEC (petroleum).
+    -   UK: Supermarkets, energy industry, bus market, and short-haul/long-haul airlines.
+
+The Kinked Demand Curve Model
+This model illustrates interdependence and explains price rigidity (sticky prices) in two ways.
+
+-   Logic of the Kink (Why firms don't change prices):
+    -   The market price settles at P1, and the demand curve has different elasticities above and below this point.
+    -   Raising Price (Above P1): Demand is price elastic. If a firm raises prices, rivals will not follow; they will keep prices low to gain market share. Consequently, the firm raising prices suffers a significant drop in demand and total revenue.
+    -   Lowering Price (Below P1): Demand is price inelastic. If a firm lowers prices, rivals will follow to protect their market share, leading to a price war. Demand increases proportionately less than the price cut, causing total revenue to fall without gaining market share in the long run.
+    -   Conclusion: It makes no sense to raise or lower prices from P1, creating price rigidity.
+
+-   The Marginal Revenue (MR) Curve (Vertical Gap):
+    -   In this model, the MR curve has a vertical gap at the point of the kink.
+    -   If marginal costs (MC) change (e.g., increase from MC1 to MC2) but stay within this vertical gap, a profit-maximizing firm (producing where MC=MR) will not change its quantity or price.
+    -   This provides a theoretical explanation for why firms do not need to change prices even when costs fluctuate.
+
+Conclusions from the Kinked Demand Model
+-   Price Wars: Despite the theory suggesting rigidity, price competition (price wars) does occur in reality, such as among UK supermarkets or short-haul airlines.
+-   Non-Price Competition: Because prices remain sticky at P1, it is logical for firms to compete heavily on branding and quality.
+-   Collusion: Interdependence is frustrating, creating a strong temptation for firms to collude, fix prices like a monopoly, and earn high profits rather than worrying about rivals' reactions.
+
+---
+
+### Part 2: Oligopoly and Game Theory
+
+Overview
+Game Theory is used to map interdependence in greater detail than the Kinked Demand Curve, often utilizing the Prisoner's Dilemma model.
+
+The Payoff Matrix (The Setup)
+-   The model visualizes two firms (Firm A and Firm B) facing pricing decisions: charging a High Price (£1) or a Low Price (90p).
+-   The matrix shows profits (payoffs) for each combination of choices, where the left number in a cell is Firm A's profit and the right number is Firm B's profit.
+
+Solving the Game (Rational Behavior)
+-   Scenario for Firm A:
+    -   If Firm B charges a High Price (£1), Firm A should undercut and charge a Low Price (90p) to earn £4 million rather than £3 million.
+    -   If Firm B charges a Low Price (90p), Firm A should also charge a Low Price to earn £1 million rather than £0.5 million.
+    -   Result: Undercutting/charging the low price is the rational strategy.
+-   Scenario for Firm B:
+    -   Firm B faces the same incentives; if Firm A charges High, B undercuts to earn £4 million. If Firm A charges Low, B matches to earn £1 million.
+-   Nash Equilibrium: The game settles where both firms charge the Low Price (90p) and earn £1 million each. This is the only stable outcome where both firms have made their rational choice based on the other's action.
+-   Dominant Strategy: For both firms, charging the low price (90p) is the dominant strategy regardless of what the rival does.
+
+Conclusions from Game Theory
+1.  Price Rigidity: Because the Nash Equilibrium (Low Price/Low Price) is the stable outcome, prices will remain rigid at 90p, and competition will shift to non-price factors.
+2.  Temptation to Collude: The Nash Equilibrium is not the best joint outcome. If both firms cooperated to charge the High Price (£1), they would each earn £3 million instead of £1 million. This creates a massive incentive to break interdependence, form a cartel, and fix prices.
+3.  Incentive to Cheat: Even if firms agree to collude (charge £1), the incentive to "cheat" remains strong. A firm can earn £4 million by undercutting the cartel agreement. Therefore, collusion and cartels are often unstable in the long run because firms are tempted to undercut rivals for higher individual profit.
