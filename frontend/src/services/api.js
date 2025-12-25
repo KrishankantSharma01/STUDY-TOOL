@@ -1,4 +1,6 @@
-const API_BASE_URL = "http://localhost:5000/api";
+// Use environment variable for API URL, fallback to localhost for development
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 
+  (import.meta.env.DEV ? "http://localhost:5000/api" : "/api");
 
 export async function sendQuestion(question) {
   const response = await fetch(`${API_BASE_URL}/chats`, {
@@ -18,7 +20,7 @@ export async function sendQuestion(question) {
 }
 
 export async function getVideoSummary() {
-  const response = await fetch("http://localhost:5000/api/content/summary");
+  const response = await fetch(`${API_BASE_URL}/content/summary`);
 
   if (!response.ok) {
     throw new Error("Failed to load video summary");
